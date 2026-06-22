@@ -86,24 +86,19 @@ Dataset Source: Netflix Shows Dataset
 
 ### Movies vs TV Shows
 
-![Movies vs TV Shows](<img width="1920" height="1080" alt="movie_vs_tvshow png" src="https://github.com/user-attachments/assets/75557035-d23d-48e4-a2fa-7100eb1ff142" />
-)
+![Movies vs TV Shows](Screenshots1/movie_vs_tvshow.pn)
 
 ### Top Countries Analysis
 
-![Top Countries](<img width="1920" height="1080" alt="top_countries png" src="https://github.com/user-attachments/assets/3b787460-9ed4-436a-a5b6-ca9a04cad0ab" />
-)
+![Top Countries](Screenshots1/top_countries.png)
 
 ### Content Ratings Analysis
 
-![Content Ratings](<img width="1920" height="1080" alt="content_ratings png" src="https://github.com/user-attachments/assets/db85db4f-fc4b-403e-9e98-288ed322fbfe" />
-)
+![Content Ratings](Screenshots1/content_ratings.png)
 
 ### Release Year Trend
 
-![Release Year Trend](<img width="1920" height="1080" alt="release_year_trend png" src="https://github.com/user-attachments/assets/fffb6a26-9313-49ee-b21d-253efec72ea8" />
-)
-
+![Release Year Trend](Screenshots1/release_year_trend.png)
 ---
 
 ## 📁 Project Structure
