@@ -86,7 +86,7 @@ Dataset Source: Netflix Shows Dataset
 
 ### Movies vs TV Shows
 
-![Movies vs TV Shows](Screenshots1/movie_vs_tvshow.pn)
+![Movies vs TV Shows](Screenshots1/movie_vs_tvshow.png)
 
 ### Top Countries Analysis
 
