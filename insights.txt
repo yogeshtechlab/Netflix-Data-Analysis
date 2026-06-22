@@ -1,4 +1,11 @@
-1. Movies dominate Netflix content.
-2. United States contributes the most content.
-3. TV-MA is the most common rating.
-4. Netflix content increased significantly after 2015.
+Netflix Data Analysis - Key Findings
+
+1. Movies dominate Netflix content with more than twice the number of TV Shows.
+
+2. The United States contributes the largest amount of content on Netflix.
+
+3. TV-MA is the most common rating, indicating a large amount of mature content.
+
+4. Netflix content production increased rapidly after 2015.
+
+5. Content growth peaked around 2019–2020 before declining slightly.
